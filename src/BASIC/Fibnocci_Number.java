@@ -1,3 +1,5 @@
+package BASIC;
+
 import java.util.Scanner;
 
 public class Fibnocci_Number {

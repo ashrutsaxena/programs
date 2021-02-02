@@ -1,3 +1,5 @@
+package BASIC;
+
 import java.util.Scanner;
 
 public class palindrome {
@@ -14,9 +16,9 @@ public class palindrome {
             num=num/10;
         }
         if(temp==sum)
-            System.out.println("palindrome");
+            System.out.println("BASIC.palindrome");
         else
-            System.out.println("not palindrome");
+            System.out.println("not BASIC.palindrome");
 
         }
     }

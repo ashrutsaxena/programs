@@ -1,3 +1,5 @@
+package BASIC;
+
 import java.util.Scanner;
 
 public class prime {
@@ -8,17 +10,17 @@ public class prime {
 
 //        for(int i=2;i<num;i++){
 //            if(i==2){
-//                System.out.println("not prime");
+//                System.out.println("not BASIC.prime");
 //                break;
 //
 //            }
 //            else if(i%2==0){
-//                System.out.println("not prime");
+//                System.out.println("not BASIC.prime");
 //                break;
 //                            }
 //
 //            else{
-//                System.out.println("prime");
+//                System.out.println("BASIC.prime");
 //                break;
 //
 //            }
